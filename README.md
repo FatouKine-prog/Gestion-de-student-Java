@@ -31,7 +31,7 @@ StudentDAO : contient les méthodes CRUD (add, getAll, update, delete).
 Main : interface console permettant de tester les fonctionnalités.
 
 
-Technologies utilisées
+Technologies utilisées :
 Java, 
 MySQL, 
 JDBC, 
@@ -49,6 +49,7 @@ Voici un petit démo de mon projet:
 
 
 <img width="325" height="362" alt="Capture d’écran 2025-12-06 102358" src="https://github.com/user-attachments/assets/a62b6611-b719-4aa6-8021-49e9433912fc" />
+
 
 
 
