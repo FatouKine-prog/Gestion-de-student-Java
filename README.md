@@ -5,9 +5,13 @@ Le projet illustre l’utilisation de la programmation orientée objet (POO) et 
 
 Objectifs du projet
 L’application a été développée pour montrer comment :
-Structurer un programme en Java autour de classes et objets.
+
+Structurer un programme en Java autour de classes et objets
+
 Établir une connexion sécurisée à une base de données MySQL.
+
 Manipuler des données via JDBC.
+
 Implémenter les opérations d’un CRUD.
 
 Fonctionnalités :
@@ -21,16 +25,23 @@ Modifier le nom d’un étudiant
 Supprimer un étudiant
 
 Le projet est généralement organisé autour des composants suivants :
+
 Student : classe modèle représentant un étudiant.
+
 DatabaseConnection : gère la connexion à MySQL.
+
 StudentDAO : contient les méthodes CRUD (add, getAll, update, delete).
+
 Main : interface console permettant de tester les fonctionnalités.
 
 
 Technologies utilisées
 Java 
+
 MySQL
+
 JDBC
+
 IDE : VS Code
 
 Voici un petit démo de mon projet:
@@ -43,6 +54,7 @@ Voici un petit démo de mon projet:
 
 
 <img width="325" height="362" alt="Capture d’écran 2025-12-06 102358" src="https://github.com/user-attachments/assets/a62b6611-b719-4aa6-8021-49e9433912fc" />
+
 
 
 
